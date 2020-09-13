@@ -1,4 +1,4 @@
-# vue-blog
+# vue-news
 
 ## Project setup
 ```
@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Hasil pelatihan bersama Rizal Asrul (FE Bukalapak)
+## Vue JS oleh : Emanuel Norman Putera Wardhana
+## Email : emanuelnpw@gmail.com
